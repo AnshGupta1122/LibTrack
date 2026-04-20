@@ -1,1 +1,7 @@
 *:Zone.Identifier
+backend/data/
+target/
+**/target/
+*.jar
+.vscode/
+.idea/
